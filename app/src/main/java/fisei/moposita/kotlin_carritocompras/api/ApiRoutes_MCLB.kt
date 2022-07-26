@@ -5,7 +5,7 @@ import fisei.moposita.kotlin_carritocompras.routes.ProductsRoutes_MCLB
 import fisei.moposita.kotlin_carritocompras.routes.UsersRoutes_MCLB
 
 class ApiRoutes_MCLB {
-    val API_URL = "/api/"
+    val API_URL = "https://apismoviles.herokuapp.com/api/"
     //Inicializar rutas
     val retrofit = RetrofitClient_MCLB()
 
