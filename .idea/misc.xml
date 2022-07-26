@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Universidad-TI/Aplicaciones-Moviles/ProyectoFinal_CarritoCompras/app/src/main/res/drawable/edittext_custom.xml" value="0.2484375" />
+        <entry key="..\:/Universidad-TI/Aplicaciones-Moviles/ProyectoFinal_CarritoCompras/app/src/main/res/drawable/rounded_button.xml" value="0.2484375" />
+        <entry key="..\:/Universidad-TI/Aplicaciones-Moviles/ProyectoFinal_CarritoCompras/app/src/main/res/layout/action_bar.xml" value="0.23229166666666667" />
+        <entry key="..\:/Universidad-TI/Aplicaciones-Moviles/ProyectoFinal_CarritoCompras/app/src/main/res/layout/activity_client_home.xml" value="0.264" />
+        <entry key="..\:/Universidad-TI/Aplicaciones-Moviles/ProyectoFinal_CarritoCompras/app/src/main/res/layout/activity_client_products_detail.xml" value="0.23229166666666667" />
+        <entry key="..\:/Universidad-TI/Aplicaciones-Moviles/ProyectoFinal_CarritoCompras/app/src/main/res/layout/activity_client_products_list.xml" value="0.23229166666666667" />
+        <entry key="..\:/Universidad-TI/Aplicaciones-Moviles/ProyectoFinal_CarritoCompras/app/src/main/res/layout/activity_client_shooping_bag.xml" value="0.23229166666666667" />
+        <entry key="..\:/Universidad-TI/Aplicaciones-Moviles/ProyectoFinal_CarritoCompras/app/src/main/res/layout/activity_client_update.xml" value="0.23229166666666667" />
+        <entry key="..\:/Universidad-TI/Aplicaciones-Moviles/ProyectoFinal_CarritoCompras/app/src/main/res/layout/activity_main.xml" value="0.23229166666666667" />
+        <entry key="..\:/Universidad-TI/Aplicaciones-Moviles/ProyectoFinal_CarritoCompras/app/src/main/res/layout/activity_register.xml" value="0.23229166666666667" />
+        <entry key="..\:/Universidad-TI/Aplicaciones-Moviles/ProyectoFinal_CarritoCompras/app/src/main/res/layout/activity_save_image.xml" value="0.264" />
+        <entry key="..\:/Universidad-TI/Aplicaciones-Moviles/ProyectoFinal_CarritoCompras/app/src/main/res/layout/cardview_categories.xml" value="0.23229166666666667" />
+        <entry key="..\:/Universidad-TI/Aplicaciones-Moviles/ProyectoFinal_CarritoCompras/app/src/main/res/layout/cardview_product.xml" value="0.23229166666666667" />
+        <entry key="..\:/Universidad-TI/Aplicaciones-Moviles/ProyectoFinal_CarritoCompras/app/src/main/res/layout/cardview_shopping_bag.xml" value="0.23229166666666667" />
+        <entry key="..\:/Universidad-TI/Aplicaciones-Moviles/ProyectoFinal_CarritoCompras/app/src/main/res/layout/fragment_client_categories.xml" value="0.23229166666666667" />
+        <entry key="..\:/Universidad-TI/Aplicaciones-Moviles/ProyectoFinal_CarritoCompras/app/src/main/res/layout/fragment_client_orders.xml" value="0.23229166666666667" />
+        <entry key="..\:/Universidad-TI/Aplicaciones-Moviles/ProyectoFinal_CarritoCompras/app/src/main/res/layout/fragment_client_profile.xml" value="0.23229166666666667" />
+        <entry key="..\:/Universidad-TI/Aplicaciones-Moviles/ProyectoFinal_CarritoCompras/app/src/main/res/menu/botton_navegation_manu_client.xml" value="0.23229166666666667" />
+        <entry key="..\:/Universidad-TI/Aplicaciones-Moviles/ProyectoFinal_CarritoCompras/app/src/main/res/menu/menu_shopping_bag.xml" value="0.23229166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

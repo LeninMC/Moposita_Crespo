@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Usuario/Desktop/ProyectoFinal_CarritoCompras/app/src/main/res/layout/activity_main.xml" value="0.1875" />
+        <entry key="..\:/Users/Usuario/Documents/GitHub/Moposita_Crespo/app/src/main/res/drawable/edittext_custom.xml" value="0.177" />
+        <entry key="..\:/Users/Usuario/Documents/GitHub/Moposita_Crespo/app/src/main/res/layout/action_bar.xml" value="0.1" />
+        <entry key="..\:/Users/Usuario/Documents/GitHub/Moposita_Crespo/app/src/main/res/layout/activity_client_home.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Usuario/Documents/GitHub/Moposita_Crespo/app/src/main/res/layout/activity_main.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Usuario/Documents/GitHub/Moposita_Crespo/app/src/main/res/layout/activity_register.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Usuario/Documents/Universidad/6 Semestre/Aplicaciones Moviles/Proyecto Final/ProyectoFinal_CarritoCompras1/ProyectoFinal_CarritoCompras/app/src/main/res/layout/activity_main.xml" value="0.18802083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
